@@ -20,8 +20,9 @@ THEN I find a concise, descriptive title
 ```
 
 ## Webpage
+[**Github Pages**](https://whatnameshouldiuse.github.io/angelo-accessibility-challenge/Develop/index.html)
 
-
+![Screenshot of the deployed webpage](./Develop/assets/images/Full-Page-Screenshot.png)
 
 ## License
 LICENSE information available in repo.
