@@ -88,7 +88,7 @@ header a {
     margin-right: 25px;
 }
 
-.services section img.float-right{
+.services section.switch-image-text img{
     float: right;
     margin-left: 25px;
 }
