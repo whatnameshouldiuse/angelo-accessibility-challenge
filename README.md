@@ -4,6 +4,13 @@
 ## Main objective
 This module challenge focuses on accessibility, and involves refactoring an existing code to follow accessibility standards, and ultimately make it optimized for search engines.
 
+### Description
+The website itself is a landing page for a company named Horiseon, the 'seo' part standing for 'Search Engine Optimization.' As its name implies, this company is primarily focused on providing services to ensure other businesses can advertise their own services in an accessible, widespread manner.
+The landing page itself follows a typical format, using various visual elements in a clear manner, summarizing the services provided and the potential benefits they provide.
+
+### Problem
+Despite the focus on Search Engine Optimization, the original source code for this landing page barely follows the principle rules of SEO - Overuse of div elements, redundant and functionless classes and ids for CSS, zero alt or aria attributes, etc. As part of the assignment, my goal was to ensure the source code for this page met accessibility standards by refactoring the HTML and CSS files.
+
 ### Acceptance Criteria
 ```
 GIVEN a webpage meets accessibility standards
